@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Введите количество чисел, которые хотите ввести: ");
+﻿Console.WriteLine("Введите количество чисел, которые хотите ввести: ");
 int M = int.Parse(Console.ReadLine());
 Console.WriteLine("Количество положительных чисел = " + Sum());
 
